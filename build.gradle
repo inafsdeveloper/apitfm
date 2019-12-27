@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'com.pnafs'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.json:json:20190722'
+    compile 'com.google.guava:guava:28.1-jre'
+    compile 'com.squareup.okhttp3:okhttp:4.2.2'
+    compile 'junit:junit:4.12'
+    compile 'org.easytesting:fest-assert:1.4'
+    compile 'com.fasterxml.jackson.core:jackson-core:2.10.1'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.10.1'
+    compile 'org.bitbucket.b_c:jose4j:0.7.0'
+    compile 'com.sun.activation:javax.activation:1.2.0'
+}
