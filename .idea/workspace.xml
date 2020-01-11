@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2339e075-8b32-4cec-a6fa-e4b4a7b7d6d6" name="Default Changelist" comment="" />
+    <list default="true" id="2339e075-8b32-4cec-a6fa-e4b4a7b7d6d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/assertions/JsonObjectAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/assertions/ResponseAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/IntelliJPrettyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JacksonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JsonCollectionWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JsonElementWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JsonMerger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JsonObjectSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/json/JsonWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/jwt/JwsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/jwt/TokenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/request/OkHttpClientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/request/RequestBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/request/ResponseWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/ApiUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/ApiUsageReportSeializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/JsonSchemaPropertyUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/JsonSchemaUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/OperationUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/PathUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/QueryParameterUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/RequestUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/ResponseUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/usage/UsageTrackingInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/util/RandomEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pnafs/util/RandomWordPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +42,34 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VZuRdmClQKInsWsTomGAIWccSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -25,6 +81,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
